@@ -27,14 +27,10 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 ## 🏆 42 Projects
 
 ### Standalone Repositories
-| minishell | cub3D | Webserv |
-|-----------|-------|---------|
-| [![Minishell](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minishelle.png)](https://github.com/firehorse966/minishell) | [![cub3D](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/cub3de.png)](https://github.com/firehorse966/cub3D) | [![Webserv](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/webserve.png)](https://github.com/firehorse966/Webserv) |
 
-| Image Gallery | 2048 Game |
-|---------------|-----------|
-| [![Image Gallery](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_onen.png)](https://github.com/firehorse966/Image-Gallery)
-| [![2048 Game](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_twoe.png)](https://github.com/firehorse966/2048-Game) |
+| minishell | cub3D | Webserv | Image Gallery | 2048 Game |
+|-----------|-------|---------|---------------|-----------|
+| [![Minishell](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minishelle.png)](https://github.com/firehorse966/minishell) | [![cub3D](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/cub3De.png)](https://github.com/firehorse966/cub3D) | [![Webserv](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/webserve.png)](https://github.com/firehorse966/Webserv) | [![Image Gallery](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_onen.png)](https://github.com/firehorse966/Image-Gallery) | [![2048 Game](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_twoe.png)](https://github.com/firehorse966/2048-Game) |
 
 ### Cursus42 Projects
 | Libft | ft_printf | get_next_line | Inception | Philo |
