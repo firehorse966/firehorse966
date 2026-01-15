@@ -43,9 +43,9 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 
 ### Soft Skills
 
-| Self-taught | Teamwork | Feedback | Creativity | Problem Solving |
+| Self-taught | Teamwork | Feedback | Creativity | Problem Solving |badges
 |-------------|----------|----------|------------|-----------------|
-| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/badges/surveye.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/volunteere.png) |
+| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/surveye.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/volunteere.png) |
 
 ---
 
