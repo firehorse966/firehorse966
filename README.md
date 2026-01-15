@@ -45,7 +45,7 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 
 | Self-taught | Teamwork | Feedback | Creativity | Problem Solving |
 |-------------|----------|----------|------------|-----------------|
-| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png) | ![](https://github.com/ayogun/42-project-badges/main/badges/surveye.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/repairinge.png) |
+| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png) | ![](https://graw.githubusercontent.com/mcombeau/mcombeau/main/badges/surveye.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/volunteere.png) |
 
 ---
 
