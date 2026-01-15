@@ -41,11 +41,12 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 |-------|-----------|---------|-------------|
 | [![Pipex](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexe.png)](https://github.com/firehorse966/Cursus42/tree/master/pipex) | [![PushSwap](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/push_swape.png)](https://github.com/firehorse966/Cursus42/tree/master/push%20swap) | [![so_long](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/firehorse966/Cursus42/tree/master/so_long) | [![CPP Modules](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png)](https://github.com/firehorse966/Cursus42/tree/master/cpp) |
 
-### Soft Skills 
+### Soft Skills
 
-| selftaugh | teamwork | feedback | creativity | sharing |
-|-----------|-------|---------|---------------|-----------|
-| [![selftaugh](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png)]| [![teamwork](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png)] | [![feedback](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/surveye.png)] | [![creativity](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png)] | [![sharing](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/volunteere.png)] |
+| Self-taught | Teamwork | Feedback | Creativity | Problem Solving |
+|-------------|----------|----------|------------|-----------------|
+| ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/eventse.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/evaluatione.png) | ![](https://github.com/ayogun/42-project-badges/main/badges/surveye.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/entrepreneure.png) | ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/repairinge.png) |
+
 ---
 
 ## 👤 Author
