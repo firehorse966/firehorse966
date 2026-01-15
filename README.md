@@ -33,7 +33,7 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 
 | Image Gallery | 2048 Game |
 |---------------|-----------|
-| [![Image Gallery]([https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_onen.png)](https://github.com/firehorse966/Image-Gallery) | [![2048 Game](https://raw.githubusercontent.com/mcombeau/mcombeau/blob/main/42_badges/phase_twoe.png)](https://github.com/firehorse966/2048-Game) |
+| [![Image Gallery](https://img.shields.io/badge/42-Image%20Gallery-000000?style=for-the-badge)](https://github.com/firehorse966/Image-Gallery) | [![2048 Game](https://img.shields.io/badge/42-2048%20Game-000000?style=for-the-badge)](https://github.com/firehorse966/2048-Game) |
 
 ### Cursus42 Projects
 | Libft | ft_printf | get_next_line | Inception | Philo |
