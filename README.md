@@ -32,7 +32,7 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 |-----------|-------|---------|---------------|-----------|
 | [![Minishell](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/minishelle.png)](https://github.com/firehorse966/minishell) | [![cub3D](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/cub3de.png)](https://github.com/firehorse966/cub3D) | [![Webserv](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/webserve.png)](https://github.com/firehorse966/Webserv) | [![Transcendence](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_transcendencee.png)](https://github.com/firehorse966/transcendence) | [![2048 Game](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/phase_twoe.png)](https://github.com/firehorse966/2048-Game) |
 
-### Cursus42 Projects
+### Common Core Projects
 | Libft | ft_printf | get_next_line | Inception | Philo |
 |-------|-----------|---------------|-----------|-------|
 | [![Libft](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png)](https://github.com/firehorse966/Cursus42/tree/master/Libft) | [![Printf](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/ft_printfe.png)](https://github.com/firehorse966/Cursus42/tree/master/printf) | [![GNL](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/get_next_linee.png)](https://github.com/firehorse966/Cursus42/tree/master/get%20next%20line) | [![Inception](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png)](https://github.com/firehorse966/Cursus42/tree/master/inception) | [![Philo](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png?raw=true)](https://github.com/firehorse966/Cursus42/tree/master/philo) |
@@ -52,6 +52,7 @@ I’m a professional pilot turned programmer with enthusiasm for **Software Deve
 ## 👤 Author
 
 - **Andres (aiturria)** – 42 Málaga
+- ![](https://raw.githubusercontent.com/mcombeau/mcombeau/main/42_badges/common_coree.png)
 
 ---
 
